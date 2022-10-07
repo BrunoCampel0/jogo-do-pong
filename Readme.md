@@ -1,1 +1,4 @@
-Esse projeto busca a organização e estruturação de códigos para o jogo classico PONG.
+<h1>Jogo do Pong</h1>
+
+>Status do projeto: Em desenvolvimento
+
