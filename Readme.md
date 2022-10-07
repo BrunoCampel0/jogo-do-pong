@@ -1,0 +1,1 @@
+Esse projeto busca a organização e estruturação de códigos para o jogo classico PONG.
